@@ -8,7 +8,7 @@ const Demo = () => {
     summary: ""
    })
 
- const handleSubmit = async (e) => {
+ const handleSubmit = async () => {
       alert("submitted");
  }
   return (
