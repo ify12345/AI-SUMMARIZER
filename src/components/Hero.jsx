@@ -14,7 +14,7 @@ const Hero = () => {
         </span>
       </h1>
       <h2 className='desc'>
-        simplify your reading with summairizer, an open source article summarizer that transforms lengthy articles into clear and concise summaries
+        simplify your reading withs  summairizer, an open source article summarizer that transforms lengthy articles into clear and concise summaries
       </h2>
     </header>
   )

@@ -14,7 +14,10 @@ export const articleApi = createApi({
             headers.set('X-RapidAPI-Host','article-extractor-and-summarizer.p.rapidapi.com');
             return(headers)
         }      
+
+        
     }),
+
 
     endpoints: (builder)=> ({
         getSummary: builder.query({
